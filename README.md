@@ -12,13 +12,6 @@ This repository is built with the primary aim of achieving the highest number of
 - [750K Completed](https://github.com/teamkrope/kommit/releases/750K)
 - [250K Completed](https://github.com/teamkrope/kommit/releases/250K)
 
-
-## Meet Our Contributors
-- [Huzaifa Asim](https://huzaifa.teamkrope.com/)
-- [Waiz Ansari]
-- [Abeeha Malik](https://www.blogger.com/profile/03098970785830002717)
-
-
 ## How to Contribute
 We welcome contributors from coding backgrounds. Whether you're a professional developer or a newcomer to coding, there's a place for you in this project. Here’s how you can get involved:
 
